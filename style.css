@@ -6,7 +6,7 @@
     filter: brightness(60%);
 
 }
-.nav-item a {
+.navbar a {
     font-family: 'Roboto', sans-serif;
    
 }
@@ -43,7 +43,7 @@
         
     }
 }
-.course {
+.course ,.client{
     font-family: 'Poppins', sans-serif;
 }
 .course p {
@@ -68,11 +68,32 @@
         height: 300px;
     }
 }
-.explore p {
-    font-size: 14px;
+.explore p,.registration p {
+    font-size: 13px;
 }
 
 .explore {
     background-color: #F4FAFD;
     font-family: 'Poppins', sans-serif;
+}
+
+.registration {
+    background-color: #289BDE;
+}
+
+.btn-reg {
+    color:#289BDE ;
+    font-family: 'Poppins', sans-serif;
+}
+.accordion-item {
+    margin-top: 10px;
+}
+
+.FAQ {
+    font-family: 'Poppins', sans-serif;
+    width: 70%;
+}
+
+.FAQ p {
+    font-size: 13px;
 }
