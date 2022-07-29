@@ -68,3 +68,11 @@
         height: 300px;
     }
 }
+.explore p {
+    font-size: 14px;
+}
+
+.explore {
+    background-color: #F4FAFD;
+    font-family: 'Poppins', sans-serif;
+}
